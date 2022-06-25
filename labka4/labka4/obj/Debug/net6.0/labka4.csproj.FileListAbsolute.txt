@@ -1,0 +1,15 @@
+D:\2 semestr\прога\labki\labka4\labka4\bin\Debug\net6.0\labka4.exe
+D:\2 semestr\прога\labki\labka4\labka4\bin\Debug\net6.0\labka4.deps.json
+D:\2 semestr\прога\labki\labka4\labka4\bin\Debug\net6.0\labka4.runtimeconfig.json
+D:\2 semestr\прога\labki\labka4\labka4\bin\Debug\net6.0\labka4.dll
+D:\2 semestr\прога\labki\labka4\labka4\bin\Debug\net6.0\labka4.pdb
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.csproj.AssemblyReference.cache
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.GeneratedMSBuildEditorConfig.editorconfig
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.AssemblyInfoInputs.cache
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.AssemblyInfo.cs
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.csproj.CoreCompileInputs.cache
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.dll
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\refint\labka4.dll
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.pdb
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\labka4.genruntimeconfig.cache
+D:\2 semestr\прога\labki\labka4\labka4\obj\Debug\net6.0\ref\labka4.dll
